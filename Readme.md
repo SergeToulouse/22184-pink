@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Serge T](https://up.htmlacademy.ru/adaptive/15/user/22184).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Чепулис](https://htmlacademy.ru/profile/id240237).
 
 ---
 
